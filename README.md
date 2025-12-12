@@ -1,2 +1,2 @@
-# fin-calc
+# fin cal suite
 financial calculator suite
