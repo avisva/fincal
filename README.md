@@ -1,2 +1,2 @@
 # fin cal suite
-financial calculator suite
+financial calculator suite.
