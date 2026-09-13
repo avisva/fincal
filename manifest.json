@@ -1,6 +1,6 @@
 {
   "id": "/",
-  "name": "Calc Suite",
+  "name": "Calc-Suite",
   "short_name": "CalcSuite",
   "start_url": "/",
   "display": "standalone",
